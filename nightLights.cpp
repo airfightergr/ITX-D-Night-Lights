@@ -28,6 +28,8 @@
 	#error This is made to be compiled against the XPLM300 SDK
 #endif
 
+
+//GLOBALS
 #define MPS_TO_KNOTS	1.94384		//m/s to knots
 
 XPLMDataRef	groundSpeed = NULL;
